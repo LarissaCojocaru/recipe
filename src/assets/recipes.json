@@ -1,0 +1,18 @@
+[
+   {
+      "name":"Tasty Snitzel",
+      "description":"This is simply a test",
+      "imagePath":"https://www.pomodoropizza.ro/wp-content/uploads/2021/02/snitel-vienez.jpg",
+      "ingredients":[
+         {
+            "name":"Meat",
+            "amount":1
+         },
+         {
+            "name":"French Fries",
+            "amount":20
+         }
+      ],
+      "length":2
+   }
+]
